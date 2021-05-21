@@ -8,7 +8,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Emmanuel Nduka, FullStack Web and Mobile Developer from Nigeria
+  Hi, I'm Emmanuel Nduka, Blockchain, FullStack Web and Mobile Developer from Nigeria
   <br>
   <br>
   🔬 I'm currently studying for a bachelor's degree in University of Jos Computer Science Department
@@ -16,7 +16,7 @@
 
   💻 Simply addicted to code
   <br>
-  📚 I’m currently learning typescript and amping up my blockchain skills
+  📚 Building the ELF Coin (crowdfunding cryptocurrency standard) and White Axis mobile app
   <br>
   <!-- 💬<a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
   <br>
@@ -69,7 +69,9 @@
 <br><br>
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Emmanuel-umeh/health_app_ui" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-umeh&repo=health_app_ui&theme=gotham"></a>
-  <!-- <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a>
+  
+  <a align="right" href="https://github.com/Emmanuel-umeh/ElfCoin" title="ELF Coin BEP20 Token"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-umeh&repo=Elfcoin&theme=gotham"></a>
+  <!-- 
 </p>
 <br><br>
 <p width="100%" align="center">
