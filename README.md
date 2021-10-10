@@ -1,24 +1,19 @@
 <h3 align="center">Hello there, I'm Emmanuel 👋</h3>
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/emmanuel-nduka-500900119/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/i_am__manuel" title="HackerRank Profile"><img width="22" src="https://play-lh.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk"> Twitter</a></code>
-  <!-- <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code> -->
-  <code><a href="https://www.instagram.com/i__am_manuel/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
+<!--   <code> -->
+
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Emmanuel Nduka, Blockchain, FullStack Web and Mobile Developer from Nigeria
+  Hi, Blockchain, FullStack Web and Mobile Developer here
   <br>
   <br>
   🔬 I'm currently studying for a bachelor's degree in University of Jos Computer Science Department
   <br>
 
   💻 Simply addicted to code
-  <br>
-  📚 Building the ELF Coin (crowdfunding cryptocurrency standard) and White Axis mobile app
-  <br>
-  <!-- 💬<a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
+
+
   <br>
  
 </p>
