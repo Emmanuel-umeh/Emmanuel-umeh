@@ -8,15 +8,15 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Emmanuel Nduka, Blockchain, FullStack Web and Mobile Developer from Nigeria
+  Hi, I'm Emmanuel Nduka, Blockchain, FullStack Web and Mobile Developer.
   <br>
   <br>
-  🔬 I'm currently studying for a bachelor's degree in University of Jos Computer Science Department
+  🔬 I'm currently amping up my Typescript, Blazor and C# skills!.
   <br>
 
   💻 Simply addicted to code
   <br>
-  📚 Building the ELF Coin (crowdfunding cryptocurrency standard) and White Axis mobile app
+  📚 Building the ELF Coin (crowdfunding cryptocurrency standard) and cryptocurrrencies on various blockchains.
   <br>
   <!-- 💬<a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
   <br>
