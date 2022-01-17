@@ -11,12 +11,12 @@
   Hi, I'm Emmanuel Nduka, Blockchain, FullStack Web and Mobile Developer.
   <br>
   <br>
-  🔬 I'm currently amping up my Typescript, Blazor and C# skills!.
+  🔬 I'm currently amping up my Typescript and Solidity Skills.
   <br>
 
   💻 Simply addicted to code
   <br>
-  📚 Building the ELF Coin (crowdfunding cryptocurrency standard) and cryptocurrrencies on various blockchains.
+  📚 Building the RECA NFT Marketplace.
   <br>
   <!-- 💬<a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
   <br>
