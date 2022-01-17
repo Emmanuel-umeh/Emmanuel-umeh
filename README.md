@@ -60,7 +60,7 @@
 
 <hr>
 
-<h2 align="center">Repositories</h2>
+<!-- <h2 align="center">Repositories</h2>
 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Emmanuel-umeh/Instagram_clone" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-umeh&repo=Instagram_clone&theme=gotham"></a><a align="right" href="https://github.com/Emmanuel-umeh/lyricfinder" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-umeh&repo=lyricfinder&theme=gotham"></a>
@@ -69,7 +69,7 @@
 <p width="100%" align="center">
   <a align="left" href="https://github.com/Emmanuel-umeh/health_app_ui" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-umeh&repo=health_app_ui&theme=gotham"></a>
   
-  <a align="right" href="https://github.com/Emmanuel-umeh/ElfCoin" title="ELF Coin BEP20 Token"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-umeh&repo=Elfcoin&theme=gotham"></a>
+  <a align="right" href="https://github.com/Emmanuel-umeh/ElfCoin" title="ELF Coin BEP20 Token"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Emmanuel-umeh&repo=Elfcoin&theme=gotham"></a> -->
   <!-- 
 </p>
 <br><br>
