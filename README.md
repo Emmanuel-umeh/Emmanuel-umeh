@@ -15,9 +15,7 @@
   <br>
 
   💻 Simply addicted to code
-  <br>
-  📚 Building the RECA NFT Marketplace.
-  <br>
+  
   <!-- 💬<a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
   <br>
   📫 How to reach me: <a href="mailto: Emmanuelsumeh@gmail.com">Emmanuelsumeh@gmail.com</a>
