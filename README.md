@@ -11,7 +11,7 @@
   Hi, I'm Emmanuel Nduka, Blockchain, FullStack Web and Mobile Developer.
   <br>
   <br>
-  🔬 I'm currently amping up my Typescript and Solidity Skills.
+  🔬 I'm currently drowing in everything AI
   <br>
 
   💻 Simply addicted to code
