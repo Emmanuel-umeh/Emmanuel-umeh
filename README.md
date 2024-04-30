@@ -8,7 +8,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Emmanuel Nduka, Blockchain, FullStack Web and Mobile Developer.
+  Hello, Emmanuel here👋🏽, Blockchain, FullStack Web and Mobile Developer.
   <br>
   <br>
   🔬 I'm currently drowing in everything AI
